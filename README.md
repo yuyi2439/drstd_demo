@@ -5,7 +5,8 @@ A demo using drstd allows you to write programs that can run on DragonOS
 
 # how to use ~~食用~~使用教程
 1. clone或下载本仓库代码
-2. 修改Makefile中的`BIN_NAME`、Cargo.toml中的两个`name`
-    (可选择删除并重新创建git仓库)
+2. 修改Makefile中的`BIN_NAME`和`OUTPUT_DIR`中的`DRSTD_DEMO`，
+    Cargo.toml中的两个`name`，
+    可选择删除并重新创建git仓库
 3. 编写代码
 4. 使用dadk安装到DragonOS中
