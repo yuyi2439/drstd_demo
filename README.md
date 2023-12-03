@@ -1,3 +1,5 @@
+# 由于DragonOS-Community的[Rust-App-Template](https://github.com/DragonOS-Community/Rust-App-Template)项目已经可用，本项目改为Archive
+
 # drstd_demo
 A demo using drstd allows you to write programs that can run on DragonOS
 
